@@ -21,7 +21,6 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  /* border: 13px solid #A43D65; */
   border-radius: 20px 20px 20px 20px;
   margin: auto;
   width: auto;
@@ -40,4 +39,11 @@ body {
   width: 200px;
   height: 200px;
   word-break:normal;
+}
+.single:hover {
+  cursor: pointer;
+}
+
+input {
+  text-align: center;
 }
